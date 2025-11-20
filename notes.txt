@@ -1,0 +1,1 @@
+This is a placeholder file for the Hotel Heaven Data Warehouse project. SQL scripts, schema diagrams, and ETL examples will be added later.
